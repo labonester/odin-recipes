@@ -4,3 +4,8 @@ h1 {
 ol {
     color: blue;
 }
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
